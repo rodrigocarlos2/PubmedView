@@ -2,7 +2,7 @@
 Script to download pubmed abstracts given the PMIDs.
 
 # Usage:
-python pubmed_parser.py pmids_file
+python pubmed_parser.py pmids_file\n
 pmids_file should have PMIDs, one in each line.
 
 # Input:
